@@ -2,9 +2,9 @@
 using namespace std;
 int main()
 {
-    int a,b,i;
-    cin>>a>>b;
-    for(i=a+1;i<b;i++)
+    int x,y,i;
+    cin>>x>>y;
+    for(i=x+1;i<y;i++)
     {
         if(i%2!=0)
         {
