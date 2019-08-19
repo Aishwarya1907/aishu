@@ -16,7 +16,7 @@ int main()
           {
              a=num[i];
              num[i]=num[j];
-             num[j]=a
+             num[j]=a;
           }
        
        }
